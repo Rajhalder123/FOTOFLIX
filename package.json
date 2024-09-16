@@ -2,11 +2,11 @@
   "name": "fotoflixx",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rajhalder123.github.io/FotoFlix",
+  "homepage": "https://Rajhalder123.github.io/FotoFlix",
   "description": "A photo gallery application using React",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rajhalder123/FotoFlix.git"
+    "url": "git+https://github.com/Rajhalder123/FotoFlix.git"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
